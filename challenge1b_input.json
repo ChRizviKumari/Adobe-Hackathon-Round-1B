@@ -1,0 +1,32 @@
+{
+    "challenge_info": {
+      "challenge_id": "round_1b_003",
+      "test_case_name": "academic_research_analysis",
+      "description": "Graph Neural Networks in Drug Discovery"
+    },
+    "documents": [
+      {
+        "filename": "file01.pdf",
+        "title": "Knowledge mapping of graph neural networks for drug discovery"
+      },
+      {
+        "filename": "file02.pdf",
+        "title": "Graph Neural Networks for Drug Discovery: An Integrated Decision Support Pipeline"
+      },
+      {
+        "filename": "file03.pdf",
+        "title": "A review on graph neural networks for predicting synergistic drug combinations"
+      },
+      {
+        "filename": "file04.pdf",
+        "title": "Reliable Graph Neural Networks for Drug Discovery Under Distributional Shift"
+      }
+    ],
+    "persona": {
+      "role": "Research Scientist specializing in AI applied to drug discovery"
+    },
+    "job_to_be_done": {
+      "task": "Summarize recent advances and key challenges in applying graph neural networks for drug discovery."
+    }
+  }
+  
